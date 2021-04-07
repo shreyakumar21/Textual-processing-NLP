@@ -1,0 +1,10 @@
+top
+bottom
+right
+left
+front
+back
+middle
+center
+length
+side
